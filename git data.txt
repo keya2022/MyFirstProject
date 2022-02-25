@@ -1,0 +1,5 @@
+->     git config --global user.email1 "dhibarkeya3@gmail.com"
+->     git config --global user.name "Keya2022"
+->     git init
+->     git add README.md
+ 
